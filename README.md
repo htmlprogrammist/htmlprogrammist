@@ -4,7 +4,7 @@
 
 Previously, I had experience creating telegram bots and sketches in **Python** using various libraries (e.g., Google Spreadsheets API), as well as developing web applications using only **JavaScript** or the **React** framework
 
-[🏆 Achievements]()
+[🏆 Achievements](/Achievements/README.md)
 
 [💼 Portfolio](https://github.com/htmlprogrammist?tab=repositories)
 
