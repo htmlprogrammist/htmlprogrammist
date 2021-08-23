@@ -2,8 +2,8 @@
 
 📍 Победитель конкурса Marusia Game Challenge
 
-![Marusia Game Challenge-Бадмаев Егор.png](/Marusia Game Challenge-Бадмаев Егор.png)
+![Marusia-Game-Challenge-Badmaev-Egor.png](/Marusia-Game-Challenge-Badmaev-Egor.png)
 
 📍 Выпускник Rolling Scopes school (JavaScript)
 
-![Certificate Rolling Scopes School Programming.jpg](/Certificate_Rolling_Scopes_School_Programming.jpg)
+![Certificate-Rolling-Scopes-School-Programming.jpg](/Certificate-Rolling-Scopes-School-Programming.jpg)
