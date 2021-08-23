@@ -7,7 +7,7 @@ Previously, I had experience creating telegram bots and sketches in **Python** u
 [🏆 Achievements](/Achievements/README.md)<br>
 [💼 Portfolio](https://github.com/htmlprogrammist?tab=repositories)
 
-### Hobbies
+## Hobbies
 
 🚲 Riding bicycle, scooter, skateboard<br>
 📙 Keeping a [Telegram channel](https://t.me/journaler) with my life<br>
