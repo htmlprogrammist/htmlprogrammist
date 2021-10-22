@@ -1,6 +1,6 @@
 # Achievements
 
-📍 Победитель конкурса Marusia Game Challenge
+📍 Победитель конкурса [Marusia Game Challenge](https://marusia-gamechallenge.ru)
 
 ![Marusia-Game-Challenge-Badmaev-Egor-l.png](/Achievements/Marusia-Game-Challenge-Badmaev-Egor-l.jpg)
 
