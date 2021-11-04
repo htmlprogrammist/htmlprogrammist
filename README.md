@@ -12,4 +12,4 @@ Previously, I had experience creating telegram bots and automation in **Python**
 🚲 Riding bicycle, scooter, skateboard<br>
 📙 Keeping a [Telegram channel](https://t.me/journaler) with my life<br>
 🏎 Watching Formula 1<br>
-🎤 Stand-up
+🎤 Perfoming with a stand-up
