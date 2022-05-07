@@ -6,7 +6,7 @@
 
 📍 Курс "Многопоточность в iOS (Swift)" на [Stepik](https://stepik.org/course/3278/syllabus)
 
-![Stepik-Avito-Multithreading.jpg](/Achievements/Stepik-Avito-Multithreading.jpg
+![Stepik-Avito-Multithreading.jpg](/Achievements/Stepik-Avito-Multithreading.jpg)
 
 📍 Выпускник Rolling Scopes school (JavaScript) [link](https://app.rs.school/certificate/s85tgkct)
 
