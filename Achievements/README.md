@@ -4,7 +4,7 @@
 
 ![Marusia-Game-Challenge-Badmaev-Egor-l.png](/Achievements/Marusia-Game-Challenge-Badmaev-Egor-l.jpg)
 
-📍 Курс "Многопоточность в iOS (Swift)" на [Stepik](https://stepik.org/course/3278/syllabus)
+📍 Курс "Многопоточность в iOS (Swift)" на [Stepik](https://stepik.org/course/3278/syllabus) [(Repo)](https://github.com/htmlprogrammist/multithreading)
 
 ![Stepik-Avito-Multithreading.jpg](/Achievements/Stepik-Avito-Multithreading.jpg)
 
