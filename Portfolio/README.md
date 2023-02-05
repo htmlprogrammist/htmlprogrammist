@@ -7,6 +7,7 @@ An application that allows you to track goals for a month<br>
 
 ![Agenda Promo](Agenda.jpeg)
 
+- iOS 13.0+
 - UIKit
 - Core Data
 - Human Interface Guidelines
@@ -25,6 +26,7 @@ Recipes application<br>
 
 ![Cookbook Promo](Cookbook.jpeg)
 
+- iOS 12.0+
 - Modular architecture
 - CocoaPods as a dependency manager
 - Without using third-party libraries
