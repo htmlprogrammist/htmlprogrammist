@@ -40,9 +40,10 @@ Recipes application<br>
 
 ## EmojiPicker
 
-Emoji picker for iOS like on macOS
+Emoji picker for iOS like on macOS<br>
+[GitHub](https://github.com/htmlprogrammist/EmojiPicker)
 
-![EmojiPicker Promo](EmojiPicker.gif)
+<img src="EmojiPicker.gif" width="280" alt="EmojiPicker Promo">
 
 - iOS 11.1+ & Swift 4.2+
 - Installation using CocoaPods / Swift Package Manager / Manually
