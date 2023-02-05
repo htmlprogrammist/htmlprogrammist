@@ -5,7 +5,7 @@
 An application that allows you to track goals for a month<br>
 [GitHub](https://github.com/htmlprogrammist/Agenda) | [YouTube](https://youtu.be/Pw6n4QYfHaQ)
 
-![Agenda Promo](Agenda.png)
+![Agenda Promo](Agenda.jpeg)
 
 - UIKit
 - Core Data
@@ -23,7 +23,7 @@ An application that allows you to track goals for a month<br>
 Recipes application<br>
 [GitHub](https://github.com/iCookbook) | [Presentation](https://drive.google.com/file/d/1vXaAaW-q5Q1CIdaIX6W5RSu7f6Z_FQ6y/view?usp=sharing)
 
-![Cookbook Promo](Cookbook.png)
+![Cookbook Promo](Cookbook.jpeg)
 
 - Modular architecture
 - CocoaPods as a dependency manager
