@@ -42,7 +42,7 @@ Recipes application<br>
 
 ## EmojiPicker
 
-Emoji picker for iOS like on macOS<br>
+EmojiPicker is a customizable package implementing macOS-style emoji picker popover<br>
 [GitHub](https://github.com/htmlprogrammist/EmojiPicker)
 
 <img src="EmojiPicker.gif" width="280" alt="EmojiPicker Promo">
