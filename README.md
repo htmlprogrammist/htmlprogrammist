@@ -8,8 +8,7 @@ Previously, I had experience creating telegram bots and automation in **Python**
 [💼 Portfolio](/Portfolio/README.md)
 
 ## Hobbies
-
-🚲 Riding bicycle, scooter, skateboard<br>
 📙 Keeping a [Telegram channel](https://t.me/journaler) with my life<br>
-🏎 Watching Formula 1<br>
-🎤 Perfoming with a stand-up
+🚲 Riding bicycle, scooter, skateboard<br>
+♟️ Playing [Chess](https://www.chess.com/member/egbad)<br>
+🏎 Watching Formula 1
