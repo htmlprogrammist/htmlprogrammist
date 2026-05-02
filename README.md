@@ -6,9 +6,3 @@ Previously, I had experience creating telegram bots and automation in **Python**
 
 [🏆 Achievements](/Achievements/README.md)<br>
 [💼 Portfolio](/Portfolio/README.md)
-
-## Hobbies
-📙 Keeping a [Telegram channel](https://t.me/journaler) with my life<br>
-🚲 Riding bicycle, scooter, skateboard<br>
-♟️ Playing [Chess](https://www.chess.com/member/egbad)<br>
-🏎 Watching Formula 1
